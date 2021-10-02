@@ -406,7 +406,7 @@
                                     android:layout_marginBottom="@dimen/QIBus_softui_spacing_mlarge"
                                     android:layout_toStartOf="@id/tvDetail"
                                     android:fontFamily="@font/googlesansbold"
-                                    android:text="Ahmedabad"
+                                    android:text="Colombo"
                                     android:textColor="@color/QIBus_softui_textColorPrimary"
                                     android:textSize="@dimen/QIBus_softui_font_large" />
 
@@ -421,7 +421,7 @@
                                     android:layout_marginEnd="@dimen/QIBus_softui_spacing_medium"
                                     android:layout_toStartOf="@id/tvDetail"
                                     android:fontFamily="@font/googlesansbold"
-                                    android:text="Mumbai"
+                                    android:text="Kurunegala"
                                     android:textColor="@color/QIBus_softui_textColorPrimary"
                                     android:textSize="@dimen/QIBus_softui_font_large" />
 
